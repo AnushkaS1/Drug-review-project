@@ -1,4 +1,6 @@
 # Drug-review-project  
 
-Dataset link:
+Dataset link:https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com 
+
+
 
